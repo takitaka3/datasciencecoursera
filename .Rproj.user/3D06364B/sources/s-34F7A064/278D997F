@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553258217253.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "278D997F",
+    "lastKnownWriteTime" : 1553258626,
+    "last_content_update" : 1553258626012,
+    "path" : "C:/Users/takiz/Desktop/course project/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
